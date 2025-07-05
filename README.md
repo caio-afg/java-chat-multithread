@@ -32,3 +32,43 @@ Para executar este projeto, você precisará ter o **Java Development Kit (JDK)*
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   
+2. **Navegue até o diretório do projeto:**
+
+Bash
+
+cd seu-repositorio
+
+3. **Compile os arquivos Java:**
+(Assumindo que os arquivos .java estão dentro de uma pasta 'zap')
+
+Bash
+
+javac zap/*.java
+
+4. **Execute o Servidor:**
+Abra um terminal e inicie o servidor. Ele ficará aguardando por conexões.
+
+Bash
+
+java zap.Zap
+
+**Execute o Cliente:**
+Abra um novo terminal para cada cliente que desejar conectar. Execute o comando abaixo para iniciar a interface gráfica do cliente.
+
+Bash
+
+java zap.ClienteView
+Repita este passo para simular múltiplos usuários conversando entre si.
+
+🖼️ Telas da Aplicação
+
+Tela de Login:
+![image](https://github.com/user-attachments/assets/a7ce9453-7c26-4ff8-aad8-e4c9840946da)
+
+Tela Principal do Chat (com vários usuários):
+![image](https://github.com/user-attachments/assets/396d7cfa-0d49-43d4-8e22-11b140590f0a)
+
+👨‍💻 Autor
+Desenvolvido por Caio Augusto Freitas Geraets.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-geraets/)
