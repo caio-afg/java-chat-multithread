@@ -69,7 +69,7 @@ Tela de Login:
 
 Tela Principal do Chat (com vários usuários):
 
-![image](https://github.com/user-attachments/assets/788f8f1f-a421-45d0-a187-08ba034035e4)
+![image](https://github.com/user-attachments/assets/fd9509ec-c22c-46dc-940f-73df10d0ce46)
 
 
 👨‍💻 Autor
