@@ -61,7 +61,7 @@ Bash
 java zap.ClienteView
 Repita este passo para simular múltiplos usuários conversando entre si.
 
-🖼️ Telas da Aplicação
+**🖼️ Telas da Aplicação**
 
 Tela de Login:
 
@@ -72,7 +72,8 @@ Tela Principal do Chat (com vários usuários):
 ![image](https://github.com/user-attachments/assets/fd9509ec-c22c-46dc-940f-73df10d0ce46)
 
 
-👨‍💻 Autor
+**👨‍💻 Autor:**
+
 Desenvolvido por Caio Augusto Freitas Geraets.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-geraets/)
