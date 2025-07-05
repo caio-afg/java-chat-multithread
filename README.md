@@ -64,11 +64,15 @@ Repita este passo para simular múltiplos usuários conversando entre si.
 🖼️ Telas da Aplicação
 
 Tela de Login:
+
 ![image](https://github.com/user-attachments/assets/a7ce9453-7c26-4ff8-aad8-e4c9840946da)
 
 Tela Principal do Chat (com vários usuários):
+
 ![image](https://github.com/user-attachments/assets/396d7cfa-0d49-43d4-8e22-11b140590f0a)
+
 
 👨‍💻 Autor
 Desenvolvido por Caio Augusto Freitas Geraets.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-geraets/)
